@@ -156,7 +156,7 @@ namespace Image2Display.ViewModels
                 {
                     Content = f,
                     Tag = f,
-                    FontFamily = f
+                    //FontFamily = f
                 };
                 SystemFontList.Add(item);
             }
